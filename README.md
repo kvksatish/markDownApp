@@ -1,5 +1,10 @@
 # React + TypeScript + Vite + Redux ToolKit are used in view of future expansion of features
 
+## How to Run?
+## clone it and 
+## npm install
+## npm start
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
